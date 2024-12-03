@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_TP2</string>
+    <string name="traducir">Traducir</string>
+    <string name="ingrese_palabra_en_espa_ol">Ingrese palabra en español</string>
+</resources>
